@@ -1,0 +1,29 @@
+
+
+				body {
+				background-color: black;
+				}
+
+				header {
+				border-style: dashed;
+				margin-top: 300px;
+				color: White; 
+				text-align: center;
+				font-size: 50px;
+				}
+
+				h3{
+				color:#c2c2d6;
+				text-align:center;
+				}
+
+				h4{
+				color:White;
+				text-align: center;
+				}
+
+				p{
+				color:White;
+				text-align: center;
+				}
+
